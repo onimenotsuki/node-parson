@@ -1,0 +1,24 @@
+{
+  "name": "node-parson",
+  "version": "0.0.1",
+  "description": "SDK para el uso de PARSON en nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "author": "Edgar Talledos <desarrollo5@evolutel.com.mx>",
+  "license": "MIT",
+  "engines": {
+    "node": "^8"
+  },
+  "devDependencies": {
+    "eslint": "^7.2.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-config-prettier": "^6.12.0",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "nodemon": "^2.0.4",
+    "prettier": "^2.1.2"
+  }
+}
